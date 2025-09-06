@@ -6,8 +6,8 @@
    ```
    node .\src\index.js
    ```
-3. Veja a lista de nomes de heróis no início do código.
-4. Digite o nome de um herói no console para verificar o nível dele.
+3. Ao rodar o arquivo o console exibirá o nome dos heróis da lista, seu xp e nível.
+
 
 ## Exemplo de nomes disponíveis
 
@@ -28,4 +28,4 @@
 
 ## Observação
 
-Digite o nome exatamente como aparece na lista para funcionar corretamente.
+A lista exibe os heróis já cadastrados na aplicação no console. 
