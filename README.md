@@ -2,9 +2,12 @@
 
 ## Como usar
 
-1. Execute o arquivo `index.js` com Node.js.
-2. Veja a lista de nomes de heróis no início do código.
-3. Digite o nome de um herói no console para verificar o nível dele.
+1. Execute o arquivo `index.js` com Node.js, através do comando:
+   ```
+   node .\src\index.js
+   ```
+3. Veja a lista de nomes de heróis no início do código.
+4. Digite o nome de um herói no console para verificar o nível dele.
 
 ## Exemplo de nomes disponíveis
 
